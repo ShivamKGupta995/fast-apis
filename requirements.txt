@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+strawberry-graphql
+grpcio
+grpcio-tools
+spyne
